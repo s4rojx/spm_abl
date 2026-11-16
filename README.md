@@ -88,6 +88,3 @@ Once configured, you can trigger specific sprint workflows using the wrappers in
 
 Add `--apply --approved-by "Coder Coder"` to write changes back to Jira (mutations require human approval).
 
----
-
-*Created by **Coder Coder** | [CodinzHub Projects](https://www.codinzhub.com/projects)*
